@@ -5,7 +5,7 @@ export const fetchFood = createAsyncThunk(
   'recommended/fetchFood',
   async (_, thunkAPI) => {
     const url = new URL(
-      'https://healthyhub-emsa.onrender.com/api/recommended-food'
+      'https://slim-track-360.onrender.com/api/recommended-food'
     );
 
     const options = {

@@ -10,7 +10,7 @@ const clearAuthHeader = () => {
   axios.defaults.headers.common.Authorization = '';
 };
 
-axios.defaults.baseURL = 'https://healthyhub-emsa.onrender.com/api/';
+axios.defaults.baseURL = 'https://slim-track-360.onrender.com/api/';
 
 export const register = createAsyncThunk(
   'auth/register',
