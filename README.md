@@ -69,8 +69,8 @@ form of clear and convenient graphs
 
 ## Links
 
-- [Backend Repo](https://github.com/MaksymBora/Backend-SlimTrack360)
-- [Swagger Docs](https://healthyhub-emsa.onrender.com/api-docs/)
+- [Backend Repo](https://github.com/SergeyKuran/Backend-SlimTrack360)
+- [Swagger Docs](https://slim-track-360.onrender.com/api-docs/)
 
 ## Contributors
 
