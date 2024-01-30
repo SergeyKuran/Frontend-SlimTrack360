@@ -11,6 +11,9 @@ export default defineConfig({
       pages: '/src/pages',
     },
   },
+    server: {
+    port: 3000
+  },
   // base: '/Frontend-SlimTrack360/',
   base: './',
   build: {
