@@ -52,7 +52,7 @@ export const WelcomeContent = () => {
           ))}
         </BenefitsList>
         <a
-          href="https://healthyhub-emsa.onrender.com/api/auth/google"
+          href="https://slim-track-360.onrender.com/api/auth/google"
           style={{
             cursor: 'pointer',
             margin: '0 auto',
